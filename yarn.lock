@@ -4316,6 +4316,10 @@ rimraf@~2.2.6:
   version "2.2.8"
   resolved "http://registry.npmjs.org/rimraf/-/rimraf-2.2.8.tgz#e439be2aaee327321952730f99a8929e4fc50582"
 
+rn-samsung-health@^0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/rn-samsung-health/-/rn-samsung-health-0.1.4.tgz#d87ebc1834e642b8113e5460cc7150f077e32a37"
+
 rsvp@^3.3.3:
   version "3.6.2"
   resolved "https://registry.yarnpkg.com/rsvp/-/rsvp-3.6.2.tgz#2e96491599a96cde1b515d5674a8f7a91452926a"

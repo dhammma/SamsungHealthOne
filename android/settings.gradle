@@ -1,3 +1,5 @@
 rootProject.name = 'SamsungHealthOne'
+include ':rn-samsung-health'
+project(':rn-samsung-health').projectDir = new File(rootProject.projectDir, '../node_modules/rn-samsung-health/android')
 
 include ':app'
